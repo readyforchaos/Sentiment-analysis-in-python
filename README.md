@@ -6,3 +6,9 @@ Sentiment analysis for a Startup in Norway
 
 # Predictive experiment
 ![Predictive experiment sentiment](https://1n48ta-db3pap001.files.1drv.com/y4mcWCjS6CI-8-NRfxe7xn94gxodzqKSbwmj6PZn-0QmxGzvUgPJiLd8HeiJgRAqZfe5qVHoLeo_grIUQ5Awz24qnE21QLLuT53EvnhrG4xSSfqDaiJEp00Bdu_flkV3hpNOQysf3ojBN6hKnkgGgplaPLIpsgqvJFZRWgxmSBvs41iFpi4q_5FZct0LkS0Ujb0lnR00iHOwxpjAN9v22pFzw)
+
+# Two-class logistic regression ROC evaluation
+![ROC](https://134zta-db3pap001.files.1drv.com/y4mklgeMCsOA_C4_kjMqFkTOK4AhFK0eNBOaoeaga1rtU9Cl8d1Fg7XG_-amarQ6rXnWl8zryx-9mFBo5GQIfw9yOPSox9uOeTtwh5ELlvm9OtSD4iTY2coPxh5eJcTAe8XvmX13hwqozByL8_5dELYvytWEj0Du7SZzJNwqnoFyrX9THF4pI-OS2h5zfHP4PyP2wM6k4F9zkky8dMBQCSkLw)
+
+# Testing
+![Testing](https://1345ta-db3pap001.files.1drv.com/y4mv4lKr6szAHetX14P1tqz7ja44tXIcejRwp22cgEwtlOdedHeBa7aXmhktyfIH1WQqJmWOxlunjhyBlcdTGdGPswtT2ojUJtpaeWH2oMxkN01dXP5nrq-2R0to1vTI7PYvQHSmXri3fsBU84ni09r6YeYMrTHpWwjNQNCy63Cv9JN9I-qgTvMBn-LuoigE-Rd_JyjOznZA-U01rYvqWutUg)

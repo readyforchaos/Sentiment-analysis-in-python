@@ -1,2 +1,8 @@
 # Sentiment-analysis-in-python
 Sentiment analysis for a Startup in Norway
+
+# Training experiment
+![Training experiment sentiment](https://1341ta-db3pap001.files.1drv.com/y4mMNR4k7eo8523wL6ljcabNasqIRB2MKw3UMicng_NkgaqPXWpF9rplbpDv6Peq2D2UfIQosWHruHwSl8EVzJtep8nU9PCRovq1qrWyK-SAjJKQv4pLslNgL_5Vb-v-5Sesm_FU4b32-Goo4jh8Mkt-ZCfZpnYYK_4WIpoO5Vwe3CY0gyiTewnV6wXfgqrty_a7hN0AZePC00HngHlbPiWjg)
+
+# Predictive experiment
+![Predictive experiment sentiment](https://1n48ta-db3pap001.files.1drv.com/y4mcWCjS6CI-8-NRfxe7xn94gxodzqKSbwmj6PZn-0QmxGzvUgPJiLd8HeiJgRAqZfe5qVHoLeo_grIUQ5Awz24qnE21QLLuT53EvnhrG4xSSfqDaiJEp00Bdu_flkV3hpNOQysf3ojBN6hKnkgGgplaPLIpsgqvJFZRWgxmSBvs41iFpi4q_5FZct0LkS0Ujb0lnR00iHOwxpjAN9v22pFzw)
